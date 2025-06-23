@@ -1,4 +1,4 @@
-# push_swap - Porjet 42 🪄
+# push_swap - Projet 42 🪄
 
 ## Présentation
 
